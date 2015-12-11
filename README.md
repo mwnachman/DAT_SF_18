@@ -12,7 +12,6 @@ Course materials for [General Assembly's Data Science course](https://generalass
  [Dylan Hercher](https://www.linkedin.com/pub/dylan-hercher/30/478/1b6), [Otto Stegmaier](https://www.linkedin.com/pub/otto-stegmaier/a3/a3/594)
 
 
-
 ### Course Description
 Foundational course in data science, including machine learning theory, case studies and real-world examples, introduction to various modeling techniques, and other tools to make predictions and decisions about data. Students will gain practical computational experience by running machine learning algorithms and learning how to choose the best and most representative data models to make predictions. Students will be using [Python](https://www.python.org/) throughout this course.
 
@@ -48,19 +47,19 @@ Week | Tuesday                                             | Thursday
  8   | 12/15: [K-Means Clustering and Unsupervised learning](lectures/lec14.pdf) | 12/17: [Dimensionality Reduction](lectures/lec15.pdf)
  9   | 01/05: [Recommendation systems](lectures/lec16.pdf)     | 01/07: [Natural Language Processing and Text Mining](lectures/lec17.pdf)
  10  | 01/12: [Database Technologies](lectures/lec18.pdf)            | 01/14: [Map Reduce](lectures/lec19.pdf)
- 11  | 01/19: [Data Products](lectures/lec20.pdf) | 01/21: Final Project Work session
+ 11  | 01/19: [Data Products](lectures/lec20.pdf) | 01/21: Final project presentations
  12  | 01/26: Final project presentations
 
 
-
-
-### Homework Schedule
-
-HW       | Topics                           | Dataset | Assigned | Due   | Review Due
----      | ---                              | ---     | ---      | ---   | ---
-1        | [Github setup](homework/HW1_assignment.pdf)                    |         | 10/29     |  11/3  |  11/5
-
 ### Final Project Milestones
+
+Final Project Milestones
+
+FP milestone| Deliverable            | Due
+---         | ---                    | ---
+1   | Elevator Pitch & Data Sources  | 12/10
+2   | Draft Analysis                 | 01/05
+3   | Final Project Due              | 01/21
 
 ### Office Hours
 
